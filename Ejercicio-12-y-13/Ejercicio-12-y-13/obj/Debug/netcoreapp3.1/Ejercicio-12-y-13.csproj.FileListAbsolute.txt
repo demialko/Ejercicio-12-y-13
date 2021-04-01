@@ -1,0 +1,13 @@
+C:\Users\demia\source\repos\CAI\Ejercicio-12-y-13\Ejercicio-12-y-13\Ejercicio-12-y-13\bin\Debug\netcoreapp3.1\Ejercicio-12-y-13.exe
+C:\Users\demia\source\repos\CAI\Ejercicio-12-y-13\Ejercicio-12-y-13\Ejercicio-12-y-13\bin\Debug\netcoreapp3.1\Ejercicio-12-y-13.deps.json
+C:\Users\demia\source\repos\CAI\Ejercicio-12-y-13\Ejercicio-12-y-13\Ejercicio-12-y-13\bin\Debug\netcoreapp3.1\Ejercicio-12-y-13.runtimeconfig.json
+C:\Users\demia\source\repos\CAI\Ejercicio-12-y-13\Ejercicio-12-y-13\Ejercicio-12-y-13\bin\Debug\netcoreapp3.1\Ejercicio-12-y-13.runtimeconfig.dev.json
+C:\Users\demia\source\repos\CAI\Ejercicio-12-y-13\Ejercicio-12-y-13\Ejercicio-12-y-13\bin\Debug\netcoreapp3.1\Ejercicio-12-y-13.dll
+C:\Users\demia\source\repos\CAI\Ejercicio-12-y-13\Ejercicio-12-y-13\Ejercicio-12-y-13\bin\Debug\netcoreapp3.1\Ejercicio-12-y-13.pdb
+C:\Users\demia\source\repos\CAI\Ejercicio-12-y-13\Ejercicio-12-y-13\Ejercicio-12-y-13\obj\Debug\netcoreapp3.1\Ejercicio-12-y-13.csprojAssemblyReference.cache
+C:\Users\demia\source\repos\CAI\Ejercicio-12-y-13\Ejercicio-12-y-13\Ejercicio-12-y-13\obj\Debug\netcoreapp3.1\Ejercicio-12-y-13.csproj.CoreCompileInputs.cache
+C:\Users\demia\source\repos\CAI\Ejercicio-12-y-13\Ejercicio-12-y-13\Ejercicio-12-y-13\obj\Debug\netcoreapp3.1\Ejercicio-12-y-13.AssemblyInfoInputs.cache
+C:\Users\demia\source\repos\CAI\Ejercicio-12-y-13\Ejercicio-12-y-13\Ejercicio-12-y-13\obj\Debug\netcoreapp3.1\Ejercicio-12-y-13.AssemblyInfo.cs
+C:\Users\demia\source\repos\CAI\Ejercicio-12-y-13\Ejercicio-12-y-13\Ejercicio-12-y-13\obj\Debug\netcoreapp3.1\Ejercicio-12-y-13.dll
+C:\Users\demia\source\repos\CAI\Ejercicio-12-y-13\Ejercicio-12-y-13\Ejercicio-12-y-13\obj\Debug\netcoreapp3.1\Ejercicio-12-y-13.pdb
+C:\Users\demia\source\repos\CAI\Ejercicio-12-y-13\Ejercicio-12-y-13\Ejercicio-12-y-13\obj\Debug\netcoreapp3.1\Ejercicio-12-y-13.genruntimeconfig.cache
